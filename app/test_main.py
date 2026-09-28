@@ -15,3 +15,4 @@ def test_lettes_no_upper_and_lower() -> None:
 
 def test_lettes_empty() -> None:
     assert is_isogram("") == True
+
